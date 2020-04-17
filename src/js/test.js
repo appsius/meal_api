@@ -1,3 +1,3 @@
-console.log('Imported module.');
+console.log('Imported.');
 
-export default 33;
+export default 99;
